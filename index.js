@@ -1,0 +1,1 @@
+console.log('Hey!! luna-demo instance is getting created. ');
